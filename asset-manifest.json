@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Joyraburu/rescue_app-rescue_me_frontend.git/static/css/main.fe891655.css",
+    "main.js": "/Joyraburu/rescue_app-rescue_me_frontend.git/static/js/main.4be5dcbd.js",
+    "static/js/787.cda612ba.chunk.js": "/Joyraburu/rescue_app-rescue_me_frontend.git/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Joyraburu/rescue_app-rescue_me_frontend.git/index.html",
+    "main.fe891655.css.map": "/Joyraburu/rescue_app-rescue_me_frontend.git/static/css/main.fe891655.css.map",
+    "main.4be5dcbd.js.map": "/Joyraburu/rescue_app-rescue_me_frontend.git/static/js/main.4be5dcbd.js.map",
+    "787.cda612ba.chunk.js.map": "/Joyraburu/rescue_app-rescue_me_frontend.git/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe891655.css",
+    "static/js/main.4be5dcbd.js"
+  ]
+}
